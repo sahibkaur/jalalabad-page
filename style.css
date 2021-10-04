@@ -4,3 +4,8 @@
     width: 800px;
     margin:0 auto;
 }
+.half-line {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
